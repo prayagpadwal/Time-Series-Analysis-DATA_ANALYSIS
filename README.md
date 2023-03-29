@@ -1,6 +1,6 @@
-#Tableau-workshop-by-christian-bourdeau. 24 October 2022 CSULB
+# Tableau-workshop-by-christian-bourdeau. 24 October 2022 CSULB
 
-Time series Analysis and different types of data analysis methods. Created an insightful dashboard.
+## Time series Analysis and different types of data analysis methods. Created an insightful dashboard.
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/65147413/205396822-2f660a52-aae4-4b88-903b-2158c35c3e02.png)
 ![Screenshot (17)](https://user-images.githubusercontent.com/65147413/205396823-23fc9bff-a5f3-4cc4-b840-c23b849ce99d.png)
